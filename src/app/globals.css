@@ -3,9 +3,11 @@
 @tailwind utilities;
 @layer base {
 
-  body{
-    scroll-behavior: smooth scroll;;
-  }
+  /* styles/globals.css */
+
+body {
+  scroll-behavior: smooth;
+}
 
   :root {
     --background: 0 0% 100%;

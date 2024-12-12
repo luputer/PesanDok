@@ -4,6 +4,11 @@ import Image from 'next/image'
 
 
 const Team = () => {
+  console.log('heelo word');
+
+
+
+
   return (
     <section id="team" className="container mx-auto px-4 py-20">
     <h2 className="text-3xl font-bold text-center text-blue-800 mb-12">Tim Kami</h2>
